@@ -1,16 +1,29 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<!--
-**rafhaeldeandrade/rafhaeldeandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  Hi there, I'm Rafhael Gomes.<br>
+  I like to develop softwares and to help people to do the same.
+</p>
 
-Here are some ideas to get you started:
+<h3 align="left">👨🏻‍💻 About Me</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 &nbsp; I’m currently learning MongoDB.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science @ Universidade Anhembi Morumbi
+- 💼 &nbsp; Front-end web developer and aspiring fullstack web developer.
+- 🌱 &nbsp; Enthusiast in Blockchain technologies.
+
+<h3 align="left">🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python
+- 🌐 &nbsp; HTML | CSS | JavaScript | React.js | Material UI | Bootstrap 
+- 🛢 &nbsp; MySQL | MongoDB
+- 🔧 &nbsp; Visual Studio code | Git
+- 🖥 &nbsp; Adobe Xd | Figma
+
+
+<h3> :earth_americas: Social</h3> 
+
+[![Linkedin: rafhaeldeandrade](https://img.shields.io/badge/-rafhaeldeandrade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafhael-de-andrade-gomes/)](https://www.linkedin.com/in/rafhael-de-andrade-gomes/)
+[![Gmail Badge](https://img.shields.io/badge/-rafhael@protonmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafhael@protonmail.com)](mailto:rafhael@protonmail.com)
+[![GitHub rafhaeldeandrade]( https://img.shields.io/github/followers/rafhaeldeandrade?label=follow&style=social)](https://github.com/rafhaeldeandrade)
