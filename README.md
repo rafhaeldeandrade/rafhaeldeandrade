@@ -18,7 +18,7 @@
 - 💻 &nbsp; Python
 - 🌐 &nbsp; HTML | CSS | JavaScript | React.js | Material UI | Bootstrap 
 - 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Visual Studio code | Git
+- 🔧 &nbsp; Visual Studio Code | Git
 - 🖥 &nbsp; Adobe Xd | Figma
 
 
