@@ -7,7 +7,7 @@
 
 <h3 align="left">👨🏻‍💻 About Me</h3>
 
-- 🔭 &nbsp; I’m currently learning MongoDB.
+- 🔭 &nbsp; I’m currently learning 🐳Docker.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science @ Universidade Anhembi Morumbi
 - 💼 &nbsp; Front-end web developer and aspiring fullstack web developer.
