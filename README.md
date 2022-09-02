@@ -7,7 +7,7 @@
 
 <h3 align="left">👨🏻‍💻 About Me</h3>
 
-- 🔭 &nbsp; I’m currently learning TypeScript.
+- 🔭 &nbsp; I’m currently learning GraphQL.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science @ Universidade Anhembi Morumbi
 - 💼 &nbsp; Fullstack Web Developer.
@@ -15,10 +15,10 @@
 
 <h3 align="left">🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python
-- 🌐 &nbsp; HTML | CSS | JavaScript | React.js | Node.js | Express | Material UI | Bootstrap 
-- 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Visual Studio Code | Git
+- 💻 &nbsp; TypeScript | JavaScript | Node.js | Express | GraphQL
+- 🌐 &nbsp; React.js | Redux | HTML5 | CSS3
+- 🛢 &nbsp; MongoDB | MySQL | PostgreSQL
+- 🔧 &nbsp; Visual Studio Code | Git | Git Flow
 - 🖥 &nbsp; Adobe Xd | Figma
 
 
