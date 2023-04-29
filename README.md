@@ -7,7 +7,7 @@
 
 <h3 align="left">👨🏻‍💻 About Me</h3>
 
-- 🔭 &nbsp; I’m currently learning GraphQL.
+- 🔭 &nbsp; I’m currently learning React Native.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science @ Universidade Anhembi Morumbi
 - 💼 &nbsp; Fullstack Web Developer.
