@@ -1,24 +1,25 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hi there, I'm Rafhael Gomes.<br>
-  I like to develop softwares and to help people to do the same.
+  Hello, I'm Rafhael Gomes.<br>
+I enjoy developing software and helping others do the same.
 </p>
 
 <h3 align="left">👨🏻‍💻 About Me</h3>
 
-- 🔭 &nbsp; I’m currently learning React Native.
+- 🔭 &nbsp; I’m currently studying C# and .NET Framework.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science @ Universidade Anhembi Morumbi
-- 💼 &nbsp; Fullstack Web Developer.
+- 🎓 &nbsp; Graduated with a Bachelor of Science in Computer Science @ Anhembi Morumbi University
+- 🎓 &nbsp; Currently pursuing an MBA in Software Engineering
+- 💼 &nbsp; Full Stack Web Developer.
 - 🌱 &nbsp; Enthusiast in Blockchain technologies.
 
 <h3 align="left">🛠 Tech Stack</h3>
 
-- 💻 &nbsp; TypeScript | JavaScript | Node.js | Express | GraphQL
-- 🌐 &nbsp; React.js | Redux | HTML5 | CSS3
-- 🛢 &nbsp; MongoDB | MySQL | PostgreSQL
-- 🔧 &nbsp; Visual Studio Code | Git | Git Flow
+- 💻 &nbsp; C# | .NET Framework | ASP.NET Web Api | TypeScript | JavaScript | Node.js | Express | GraphQL
+- 🌐 &nbsp; React.js | Solid.js | Redux | HTML5 | CSS3
+- 🛢 &nbsp; MongoDB | MySQL | PostgreSQL | Sql Server
+- 🔧 &nbsp; Visual Studio | Visual Studio Code | Git | Git Flow
 - 🖥 &nbsp; Adobe Xd | Figma
 
 
